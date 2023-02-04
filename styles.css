@@ -1,0 +1,59 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: "Lucida Sans", sans-serif;
+}
+
+body {
+    background-color: rgb(130, 204, 137);
+}
+
+.carrusel {    
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 250px;
+}
+
+.imagen {
+    flex: 1;
+    padding: 25px;
+}
+
+
+h2 {
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h6 {
+    position: absolute;
+    margin: 3px;
+    text-align: center;
+
+}
+
+
+img {
+    display: flex;
+    width: 20vmax;
+    height: 15vmax;
+    justify-content: center;
+    margin: 10px;
+}
+
+
+
+
+/* {
+
+    flex-direction: row;
+    flex-flow: row;
+    border: 40px;  
+    padding: 5px;
+    align-items: space-between;
+   
+} */
+
+
+
