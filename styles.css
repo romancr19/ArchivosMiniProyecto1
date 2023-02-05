@@ -1,59 +1,34 @@
-* {
-    padding: 0px;
-    margin: 0px;
-    font-family: "Lucida Sans", sans-serif;
-}
-
-body {
-    background-color: rgb(130, 204, 137);
-}
-
-.carrusel {    
-    display: flex;
-    flex-wrap: wrap;
-    min-width: 250px;
-}
-
-.imagen {
-    flex: 1;
-    padding: 25px;
+#Experiencia {
+    text-align: center;
+    margin: 10px;
+    padding-bottom: 15px;
 }
 
 
-h2 {
-    margin-top: 10px;
+h5 {
+    margin: 5px;
+    text-align: justify;
     font-weight: bold;
-    text-align: center;
 }
 
-h6 {
-    position: absolute;
-    margin: 3px;
-    text-align: center;
-
+#experiences {
+    display: flex;
+    min-width: 250px;
+    
 }
 
+#proyecto {
+    display: inline-flex;
+    margin-right: 10px;
+}
+
+p {
+    margin-right: 10em;
+}
 
 img {
     display: flex;
-    width: 20vmax;
-    height: 15vmax;
-    justify-content: center;
     margin: 10px;
+    width: 250px;
 }
-
-
-
-
-/* {
-
-    flex-direction: row;
-    flex-flow: row;
-    border: 40px;  
-    padding: 5px;
-    align-items: space-between;
-   
-} */
-
-
 
