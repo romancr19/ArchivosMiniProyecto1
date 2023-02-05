@@ -2,10 +2,11 @@
     padding: 0px;
     margin: 0px;
     font-family: "Lucida Sans", sans-serif;
+    color: rgb(20, 19, 19);
 }
 
 body {
-    background-color: rgb(130, 204, 137);
+    background-color: rgb(183, 190, 137);
 }
 
 .carrusel {    
@@ -80,3 +81,6 @@ p {
     width: 250px;
 }
 
+#skill {
+    text-align: left;
+}
