@@ -44,5 +44,39 @@ img {
 
 
 
+#Experiencia {
+    text-align: center;
+    margin: 10px;
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: center;
+}
 
+
+h5 {
+    margin: 5px;
+    text-align: justify;
+    font-weight: bold;
+}
+
+#experiences {
+    display: flex;
+    min-width: 250px;
+    
+}
+
+#proyecto {
+    display: inline-flex;
+    margin-right: 10px;
+}
+
+p {
+    margin-right: 10em;
+}
+
+.IE {
+    display: flex;
+    margin: 10px;
+    width: 250px;
+}
 
